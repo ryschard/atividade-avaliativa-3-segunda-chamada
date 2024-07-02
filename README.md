@@ -23,7 +23,7 @@
 5. Ao finalizar você precisa comittar e enviar novamente para o github suas modificações.
    1. Primeiro precisamos adicionar as alterações ao stage, usando o comando  `git add .`.
    2.  Depois disso, você vai de fato commitar, usando o comando `git commit -m "sua mensagem"`.
-   3.  Por fim, você precisa fazer push para o github, com o comando `git push origin main`.
+   3.  Por fim, você precisa fazer push para o github, com o comando `git push origin master`.
 6. Por fim, você deve copiar o link do seu repositório e fazer o envio no AVA. 
    1. Você deve adicionar como comentário na entrega do AVA.
 
